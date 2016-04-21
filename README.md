@@ -31,5 +31,5 @@ Output fields
 
 ###[Here is  an example CSV extract](https://github.com/b44p/wethepeople-petition-api/blob/master/petitions.whitehouse.gov%20API%2021st%20Apr%2011_46.csv)
 
-###TODO
-    [Ask Import.io whether csv extracts can be performed using the API](https://twitter.com/vr00n/status/723175332648382464)
+### TODO
+    Ask Import.io whether csv extracts can be performed using the API https://twitter.com/vr00n/status/723175332648382464)
