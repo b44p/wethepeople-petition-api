@@ -7,14 +7,14 @@ I used [Import.io](www.Import.io) to generate an extractor template from the lin
 
 https://api.import.io/store/connector/b7372339-5fb9-4896-ad81-525ab293d2b9/_query?input=webpage/url:https%3A%2F%2Fpetitions.whitehouse.gov%2Fresponses%3Fpage%3D1&&_apikey=IMPORT-IO-API-KEY
 
-Clicking on the URL will generate a JSON containing the following fields for each petition. 
-Each page contains 20 petitions. Pages can be changed by changing the ```page%3D{num}``` of the aboveURL
+Sign up wtih Import.io and get an API-key. Once you plug your key into the URL, each page contains a JSON containing petition data.
+
+Each page contains 20 petitions. Pages can be changed by changing the ```page%3D{num}``` of the URL.
 
 so this is **PAGE 1** of petitions
-    https://api.import.io/store/connector/b7372339-5fb9-4896-ad81-525ab293d2b9/_query?input=webpage/url:https%3A%2F%2Fpetitions.whitehouse.gov%2Fresponses%3Fpage%3D1&&_apikey=IMPORT-IO-API-KEY
-  
+    (http://i.imgur.com/HCnbKvx.png)
 and this is **PAGE 2**
-    https://api.import.io/store/connector/b7372339-5fb9-4896-ad81-525ab293d2b9/_query?input=webpage/url:https%3A%2F%2Fpetitions.whitehouse.gov%2Fresponses%3Fpage%3D2&&_apikey=IMPORT-IO-API-KEY
+    (http://i.imgur.com/lXGAq6v.png)
 
 Output fields
   * signed_label
