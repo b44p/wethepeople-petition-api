@@ -12,9 +12,9 @@ Sign up wtih Import.io and get an API-key. Once you plug your key into the URL, 
 Each page contains 20 petitions. Pages can be changed by changing the ```page%3D{num}``` of the URL.
 
 so this is **PAGE 1** of petitions
-    (http://i.imgur.com/HCnbKvx.png)
+    !(http://i.imgur.com/HCnbKvx.png)
 and this is **PAGE 2**
-    (http://i.imgur.com/lXGAq6v.png)
+    !(http://i.imgur.com/lXGAq6v.png)
 
 Output fields
   * signed_label
