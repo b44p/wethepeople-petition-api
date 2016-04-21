@@ -1,5 +1,5 @@
 # wethepeople-petition-api
-An API to extract petition data from the [White House's We the People initiative](https://petitions.whitehouse.gov/responses)
+Super simple API to extract petition data from the [White House's We the People initiative](https://petitions.whitehouse.gov/responses)
 
 I used [Import.io](www.Import.io) to generate an extractor template from the link  https://petitions.whitehouse.gov/responses?page={num}
 
